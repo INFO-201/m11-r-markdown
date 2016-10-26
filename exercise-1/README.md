@@ -3,7 +3,7 @@ In this exercise, you'll practice building a dynamic report using the [New York 
 
 ![completed movie review report](imgs/complete.png)
 
-Begin by creating a new R Markdown file called `index.Rmd`, and do the following:
+You'll work in the file called `index.Rmd`.
 
 ## Code block
 In an R code block that is _executed but not displayed_ to the user, you should do the following:
