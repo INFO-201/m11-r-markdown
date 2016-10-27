@@ -10,7 +10,7 @@ library(jsonlite)
 library(dplyr)
 
 # Store a variable "movie"
-movie <- 'Almost Famous'
+movie <- 'Forrest Gump'
 # Write a function that allows you to specify a movie, then does the following:
 GetReview <- function(movie) {
   
